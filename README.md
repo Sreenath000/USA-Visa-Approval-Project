@@ -22,4 +22,7 @@ git config --global user.name Sreenath000
 
 ''' bash 
 çonda create -n visa python=3.8 -y
- '''
+'''
+
+''' bash
+conda activate 
