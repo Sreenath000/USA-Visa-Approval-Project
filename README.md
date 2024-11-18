@@ -21,5 +21,5 @@ git config --global user.name Sreenath000
 '''
 
 ''' bash 
-çonda create -m python
+çonda create -n visa python=3.8 -y
  '''
