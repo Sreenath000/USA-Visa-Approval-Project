@@ -1,11 +1,23 @@
 # USA-Visa-Approval-Project
 
-# git add .
+'''
+bash git add .
+ '''
 
-# git commit -m  "Updated Code"
+''' bash
+git commit -m  "Updated Code" 
+'''
 
-# git push origin main
+''' bash 
+git push origin main
+'''
 
-# git config --global user.email bhogathisreenathreddy122@gmail.com
+''' bash
+git config --global user.email bhogathisreenathreddy122@gmail.com
+'''
 
 # git config --global user.name Sreenath000
+
+''' bash 
+çonda create -m python
+ '''
